@@ -1,0 +1,5 @@
+# simplespringframework
+
+一个简易版本的spring框架，实现简易的IOC容器，自定义@Autowired注解，实现按成员变量类型注入，接口有多个实现类时，可以给@Autowired注解加上value属性指定实现类名。
+利用AspectJ和CGLIB实现简单的AOP操作，其中AspectJ负责相关AOP语法的解析，CGLIB负责根据语法定位到的类和方法实现代理类，然后替换IOC容器中的被代理类实现织入。
+实现简单的MVC功能，实现一个DispacherServlet进行请求的转发，可以响应JSP、jSON和js、css、图片等静态资源。
