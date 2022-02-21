@@ -1,7 +1,6 @@
 package org.simpleframework.inject;
 
-import com.imooc.controller.frontend.MainPageController;
-import org.apache.log4j.chainsaw.Main;
+import com.hyj.controller.frontend.MainPageController;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,7 +1,7 @@
-package com.imooc.service.combine;
+package com.hyj.service.combine;
 
-import com.imooc.entity.dto.MainPageInfoDTO;
-import com.imooc.entity.dto.Result;
+import com.hyj.entity.dto.MainPageInfoDTO;
+import com.hyj.entity.dto.Result;
 
 /**
  * @description:

@@ -1,8 +1,8 @@
-package com.imooc.controller.frontend;
+package com.hyj.controller.frontend;
 
-import com.imooc.entity.dto.MainPageInfoDTO;
-import com.imooc.entity.dto.Result;
-import com.imooc.service.combine.HeadLineShopCategoryCombineService;
+import com.hyj.entity.dto.MainPageInfoDTO;
+import com.hyj.entity.dto.Result;
+import com.hyj.service.combine.HeadLineShopCategoryCombineService;
 import lombok.Getter;
 import org.simpleframework.core.annotation.Controller;
 import org.simpleframework.inject.annotation.Autowired;

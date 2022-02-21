@@ -1,7 +1,7 @@
-package com.imooc.entity.dto;
+package com.hyj.entity.dto;
 
-import com.imooc.entity.bo.HeadLine;
-import com.imooc.entity.bo.ShopCategory;
+import com.hyj.entity.bo.HeadLine;
+import com.hyj.entity.bo.ShopCategory;
 import lombok.Data;
 
 import java.util.List;

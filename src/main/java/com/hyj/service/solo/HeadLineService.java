@@ -1,7 +1,7 @@
-package com.imooc.service.solo;
+package com.hyj.service.solo;
 
-import com.imooc.entity.bo.HeadLine;
-import com.imooc.entity.dto.Result;
+import com.hyj.entity.bo.HeadLine;
+import com.hyj.entity.dto.Result;
 
 import java.util.List;
 

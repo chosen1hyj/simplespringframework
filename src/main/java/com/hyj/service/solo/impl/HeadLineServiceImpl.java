@@ -1,8 +1,8 @@
-package com.imooc.service.solo.impl;
+package com.hyj.service.solo.impl;
 
-import com.imooc.entity.bo.HeadLine;
-import com.imooc.entity.dto.Result;
-import com.imooc.service.solo.HeadLineService;
+import com.hyj.entity.bo.HeadLine;
+import com.hyj.entity.dto.Result;
+import com.hyj.service.solo.HeadLineService;
 import lombok.extern.slf4j.Slf4j;
 import org.simpleframework.core.annotation.Service;
 

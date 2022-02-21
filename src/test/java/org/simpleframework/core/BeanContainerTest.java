@@ -1,9 +1,9 @@
 package org.simpleframework.core;
 
 import org.simpleframework.mvc.DispatcherServlet;
-import com.imooc.controller.frontend.MainPageController;
-import com.imooc.service.solo.HeadLineService;
-import com.imooc.service.solo.impl.HeadLineServiceImpl;
+import com.hyj.controller.frontend.MainPageController;
+import com.hyj.service.solo.HeadLineService;
+import com.hyj.service.solo.impl.HeadLineServiceImpl;
 import org.junit.jupiter.api.*;
 import org.simpleframework.core.annotation.BeanContainer;
 import org.simpleframework.core.annotation.Controller;

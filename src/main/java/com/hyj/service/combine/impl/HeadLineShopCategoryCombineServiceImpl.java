@@ -1,12 +1,12 @@
-package com.imooc.service.combine.impl;
+package com.hyj.service.combine.impl;
 
-import com.imooc.entity.bo.HeadLine;
-import com.imooc.entity.bo.ShopCategory;
-import com.imooc.entity.dto.MainPageInfoDTO;
-import com.imooc.entity.dto.Result;
-import com.imooc.service.combine.HeadLineShopCategoryCombineService;
-import com.imooc.service.solo.HeadLineService;
-import com.imooc.service.solo.ShopCategoryService;
+import com.hyj.entity.bo.HeadLine;
+import com.hyj.entity.bo.ShopCategory;
+import com.hyj.entity.dto.MainPageInfoDTO;
+import com.hyj.entity.dto.Result;
+import com.hyj.service.combine.HeadLineShopCategoryCombineService;
+import com.hyj.service.solo.HeadLineService;
+import com.hyj.service.solo.ShopCategoryService;
 import org.simpleframework.core.annotation.Service;
 import org.simpleframework.inject.annotation.Autowired;
 

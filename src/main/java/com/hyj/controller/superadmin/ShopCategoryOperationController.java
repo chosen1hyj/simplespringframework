@@ -1,8 +1,8 @@
-package com.imooc.controller.superadmin;
+package com.hyj.controller.superadmin;
 
-import com.imooc.entity.bo.ShopCategory;
-import com.imooc.entity.dto.Result;
-import com.imooc.service.solo.ShopCategoryService;
+import com.hyj.entity.bo.ShopCategory;
+import com.hyj.entity.dto.Result;
+import com.hyj.service.solo.ShopCategoryService;
 import org.simpleframework.core.annotation.Controller;
 import org.simpleframework.inject.annotation.Autowired;
 

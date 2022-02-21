@@ -1,4 +1,4 @@
-package com.imooc.entity.dto;
+package com.hyj.entity.dto;
 
 import lombok.Data;
 

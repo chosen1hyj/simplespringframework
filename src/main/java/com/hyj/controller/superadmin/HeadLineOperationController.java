@@ -1,8 +1,8 @@
-package com.imooc.controller.superadmin;
+package com.hyj.controller.superadmin;
 
-import com.imooc.entity.bo.HeadLine;
-import com.imooc.entity.dto.Result;
-import com.imooc.service.solo.HeadLineService;
+import com.hyj.entity.bo.HeadLine;
+import com.hyj.entity.dto.Result;
+import com.hyj.service.solo.HeadLineService;
 import org.simpleframework.core.annotation.Controller;
 import org.simpleframework.inject.annotation.Autowired;
 

@@ -1,4 +1,4 @@
-package com.imooc.entity.bo;
+package com.hyj.entity.bo;
 
 import lombok.Data;
 

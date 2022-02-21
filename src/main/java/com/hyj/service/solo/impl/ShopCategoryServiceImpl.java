@@ -1,9 +1,8 @@
-package com.imooc.service.solo.impl;
+package com.hyj.service.solo.impl;
 
-import com.imooc.entity.bo.HeadLine;
-import com.imooc.entity.bo.ShopCategory;
-import com.imooc.entity.dto.Result;
-import com.imooc.service.solo.ShopCategoryService;
+import com.hyj.entity.bo.ShopCategory;
+import com.hyj.entity.dto.Result;
+import com.hyj.service.solo.ShopCategoryService;
 import org.simpleframework.core.annotation.Service;
 
 import java.util.List;

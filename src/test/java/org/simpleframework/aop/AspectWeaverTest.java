@@ -1,7 +1,7 @@
 package org.simpleframework.aop;
 
-import com.imooc.controller.frontend.MainPageController;
-import com.imooc.controller.superadmin.HeadLineOperationController;
+import com.hyj.controller.frontend.MainPageController;
+import com.hyj.controller.superadmin.HeadLineOperationController;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.simpleframework.core.annotation.BeanContainer;
