@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springframework archive">
+    <output-path>$PROJECT_DIR$/out/artifacts/springframework_archive</output-path>
+    <root id="archive" name="springframework archive.war">
+      <element id="artifact" artifact-name="springframework" />
+    </root>
+  </artifact>
+</component>
